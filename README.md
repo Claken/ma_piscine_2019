@@ -1,3 +1,3 @@
 # ma_piscine_2019
 
-Ce que j'ai fait pendant ma piscine de 2019
+What I did during my "Piscine" in July 2019
